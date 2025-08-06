@@ -1,6 +1,6 @@
 # The Rise and Demise of Airbus A380: A Product Management Strategy Case Study ✈️
 
-This repository explores the strategic product lifecycle of the Airbus A380 — from market analysis and competitive positioning to design, production, and its eventual phase-out. Developed as part of the **Tech and New Product Development** course at UT Dallas, this case study combines market analysis, operational strategy, and product management perspectives.
+This repository explores the strategic product lifecycle of the Airbus A380 from market analysis and competitive positioning to design, production, and its eventual phase-out. Developed as part of the **Tech and New Product Development** course at UT Dallas, this case study combines market analysis, operational strategy, and product management perspectives.
 
 ---
 
