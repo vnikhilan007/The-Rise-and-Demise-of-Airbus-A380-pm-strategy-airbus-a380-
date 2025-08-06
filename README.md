@@ -8,8 +8,8 @@ This repository explores the strategic product lifecycle of the Airbus A380 — 
 
 | File | Description |
 |------|-------------|
-| `AirbusA380_Strategy_Case.pdf` | Written case study exploring strategic timeline, stakeholder impact, and business decisions |
-| `AirbusA380_Technovators_PPT.pdf` | Presentation slides summarizing the rise and fall of the Airbus A380 |
+| `Rise & Demise of Airbus 380.pptx` | Presentation slides summarizing the rise and fall of the Airbus A380 |
+| `Rise & Demise of Airbus 380.pdf` | Presentation slides summarizing the rise and fall of the Airbus A380 |
 | `README.md` | You're here! Repository overview and structure |
 | `references.md` | All external sources, citations, and materials used in the project |
 
